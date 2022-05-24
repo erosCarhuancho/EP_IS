@@ -1,0 +1,7 @@
+organization=eroscarhuancho
+projectKey=erosCarhuancho_EP_IS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.29242
+dashboardUrl=https://sonarcloud.io/dashboard?id=erosCarhuancho_EP_IS
+ceTaskId=AYD3qUL9fH19f5W9ZXkY
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYD3qUL9fH19f5W9ZXkY

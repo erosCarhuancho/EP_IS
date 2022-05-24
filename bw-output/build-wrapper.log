@@ -1,0 +1,119 @@
+Tue May 24 14:59:11 2022: build-wrapper, version 6.33 (win-x86-64)
+Tue May 24 14:59:11 2022: isWow64: 0
+Tue May 24 14:59:11 2022: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Tue May 24 14:59:11 2022: current directory: C:\Users\EROS\OneDrive\Escritorio\2022-1\Ingenieria de software\EP\EP_IS
+Tue May 24 14:59:11 2022: cwd: <C:\Users\EROS\OneDrive\Escritorio\2022-1\Ingenieria de software\EP\EP_IS>
+Tue May 24 14:59:11 2022: out-dir absolute path: <C:\Users\EROS\OneDrive\Escritorio\2022-1\Ingenieria de software\EP\EP_IS\bw-output>
+Tue May 24 14:59:11 2022: command line received: <g++ -std=c++17 main.cpp -o main>
+Tue May 24 14:59:12 2022: initializing json file
+Tue May 24 14:59:12 2022: starting debug cycle
+Tue May 24 14:59:12 2022: process created with pid: 9200
+Tue May 24 14:59:12 2022: image path name: <C:\msys64\mingw64\bin\g++.exe>
+Tue May 24 14:59:12 2022: command line: <g++ -std=c++17 main.cpp -o main>
+Tue May 24 14:59:12 2022: working directory: <C:\Users\EROS\OneDrive\Escritorio\2022-1\Ingenieria de software\EP\EP_IS\>
+Tue May 24 14:59:12 2022: isWow64: 0
+Tue May 24 14:59:12 2022: env0: <=::=::\>
+Tue May 24 14:59:12 2022: env1: <ACLOCAL_PATH=C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal>
+Tue May 24 14:59:12 2022: env2: <ALLUSERSPROFILE=C:\ProgramData>
+Tue May 24 14:59:12 2022: env3: <APPDATA=C:\Users\EROS\AppData\Roaming>
+Tue May 24 14:59:12 2022: env4: <COMMONPROGRAMFILES=C:\Program Files\Common Files>
+Tue May 24 14:59:12 2022: env5: <COMPUTERNAME=DESKTOP-D4BRTGT>
+Tue May 24 14:59:12 2022: env6: <COMSPEC=C:\Windows\system32\cmd.exe>
+Tue May 24 14:59:12 2022: env7: <CONFIG_SITE=C:/Program Files/Git/etc/config.site>
+Tue May 24 14:59:12 2022: env8: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Tue May 24 14:59:12 2022: env9: <CommonProgramW6432=C:\Program Files\Common Files>
+Tue May 24 14:59:12 2022: env10: <CYGWIN=wincmdln>
+Tue May 24 14:59:12 2022: env11: <DISPLAY=needs-to-be-defined>
+Tue May 24 14:59:12 2022: env12: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Tue May 24 14:59:12 2022: env13: <EXEPATH=C:\Program Files\Git>
+Tue May 24 14:59:12 2022: env14: <HOME=C:\Users\EROS>
+Tue May 24 14:59:12 2022: env15: <HOMEDRIVE=C:>
+Tue May 24 14:59:12 2022: env16: <HOMEPATH=\Users\EROS>
+Tue May 24 14:59:12 2022: env17: <HOSTNAME=DESKTOP-D4BRTGT>
+Tue May 24 14:59:12 2022: env18: <INFOPATH=C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info>
+Tue May 24 14:59:12 2022: env19: <LC_CTYPE=es_ES.UTF-8>
+Tue May 24 14:59:12 2022: env20: <LOCALAPPDATA=C:\Users\EROS\AppData\Local>
+Tue May 24 14:59:12 2022: env21: <LOGONSERVER=\\DESKTOP-D4BRTGT>
+Tue May 24 14:59:12 2022: env22: <MANPATH=C:\Program Files\Git\mingw64\local\man;C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man>
+Tue May 24 14:59:12 2022: env23: <MINGW_CHOST=x86_64-w64-mingw32>
+Tue May 24 14:59:12 2022: env24: <MINGW_PACKAGE_PREFIX=mingw-w64-x86_64>
+Tue May 24 14:59:12 2022: env25: <MINGW_PREFIX=C:/Program Files/Git/mingw64>
+Tue May 24 14:59:12 2022: env26: <MSYSTEM=MINGW64>
+Tue May 24 14:59:12 2022: env27: <MSYSTEM_CARCH=x86_64>
+Tue May 24 14:59:12 2022: env28: <MSYSTEM_CHOST=x86_64-w64-mingw32>
+Tue May 24 14:59:12 2022: env29: <MSYSTEM_PREFIX=C:/Program Files/Git/mingw64>
+Tue May 24 14:59:12 2022: env30: <NUMBER_OF_PROCESSORS=8>
+Tue May 24 14:59:12 2022: env31: <OLDPWD=C:/Users/EROS/OneDrive/Escritorio/2022-1/Ingenieria de software/EP>
+Tue May 24 14:59:12 2022: env32: <ORIGINAL_PATH=C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\EROS\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Users\EROS\build-wrapper-win-x86;C:\Users\EROS\sonar-scanner-4.7.0.2747-windows\bin;C:\Program Files\Git\usr\bin;C:\Users\EROS\AppData\Local\Programs\Python\Python310\Scripts;C:\Users\EROS\AppData\Local\Programs\Python\Python310;C:\Users\EROS\AppData\Local\Microsoft\WindowsApps;C:\Users\EROS\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\mingw64\bin>
+Tue May 24 14:59:12 2022: env33: <ORIGINAL_TEMP=C:/Users/EROS/AppData/Local/Temp>
+Tue May 24 14:59:12 2022: env34: <ORIGINAL_TMP=C:/Users/EROS/AppData/Local/Temp>
+Tue May 24 14:59:12 2022: env35: <OS=Windows_NT>
+Tue May 24 14:59:12 2022: env36: <OneDrive=C:\Users\EROS\OneDrive>
+Tue May 24 14:59:12 2022: env37: <OneDriveConsumer=C:\Users\EROS\OneDrive>
+Tue May 24 14:59:12 2022: env38: <PATH=C:\Users\EROS\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\EROS\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Users\EROS\build-wrapper-win-x86;C:\Users\EROS\sonar-scanner-4.7.0.2747-windows\bin;C:\Program Files\Git\usr\bin;C:\Users\EROS\AppData\Local\Programs\Python\Python310\Scripts;C:\Users\EROS\AppData\Local\Programs\Python\Python310;C:\Users\EROS\AppData\Local\Microsoft\WindowsApps;C:\Users\EROS\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\mingw64\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl>
+Tue May 24 14:59:12 2022: env39: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC>
+Tue May 24 14:59:12 2022: env40: <PKG_CONFIG_PATH=C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig>
+Tue May 24 14:59:12 2022: env41: <PLINK_PROTOCOL=ssh>
+Tue May 24 14:59:12 2022: env42: <PROCESSOR_ARCHITECTURE=AMD64>
+Tue May 24 14:59:12 2022: env43: <PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 17 Stepping 0, AuthenticAMD>
+Tue May 24 14:59:12 2022: env44: <PROCESSOR_LEVEL=23>
+Tue May 24 14:59:12 2022: env45: <PROCESSOR_REVISION=1100>
+Tue May 24 14:59:12 2022: env46: <PROGRAMFILES=C:\Program Files>
+Tue May 24 14:59:12 2022: env47: <PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ >
+Tue May 24 14:59:12 2022: env48: <PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules>
+Tue May 24 14:59:12 2022: env49: <PUBLIC=C:\Users\Public>
+Tue May 24 14:59:12 2022: env50: <PWD=C:/Users/EROS/OneDrive/Escritorio/2022-1/Ingenieria de software/EP/EP_IS>
+Tue May 24 14:59:12 2022: env51: <ProgramData=C:\ProgramData>
+Tue May 24 14:59:12 2022: env52: <ProgramFiles(x86)=C:\Program Files (x86)>
+Tue May 24 14:59:12 2022: env53: <ProgramW6432=C:\Program Files>
+Tue May 24 14:59:12 2022: env54: <SESSIONNAME=Console>
+Tue May 24 14:59:12 2022: env55: <SHELL=C:\Program Files\Git\usr\bin\bash.exe>
+Tue May 24 14:59:12 2022: env56: <SHLVL=1>
+Tue May 24 14:59:12 2022: env57: <SONAR_TOKEN=41d705cebca8127b29349c8011bf538ddac04752>
+Tue May 24 14:59:12 2022: env58: <SSH_ASKPASS=C:/Program Files/Git/mingw64/bin/git-askpass.exe>
+Tue May 24 14:59:12 2022: env59: <SYSTEMDRIVE=C:>
+Tue May 24 14:59:12 2022: env60: <SYSTEMROOT=C:\Windows>
+Tue May 24 14:59:12 2022: env61: <TEMP=C:\Users\EROS\AppData\Local\Temp>
+Tue May 24 14:59:12 2022: env62: <TERM=xterm>
+Tue May 24 14:59:12 2022: env63: <TERM_PROGRAM=mintty>
+Tue May 24 14:59:12 2022: env64: <TERM_PROGRAM_VERSION=3.6.0>
+Tue May 24 14:59:12 2022: env65: <TMP=C:\Users\EROS\AppData\Local\Temp>
+Tue May 24 14:59:12 2022: env66: <TMPDIR=C:\Users\EROS\AppData\Local\Temp>
+Tue May 24 14:59:12 2022: env67: <USERDOMAIN=DESKTOP-D4BRTGT>
+Tue May 24 14:59:12 2022: env68: <USERDOMAIN_ROAMINGPROFILE=DESKTOP-D4BRTGT>
+Tue May 24 14:59:12 2022: env69: <USERNAME=EROS>
+Tue May 24 14:59:12 2022: env70: <USERPROFILE=C:\Users\EROS>
+Tue May 24 14:59:12 2022: env71: <WINDIR=C:\Windows>
+Tue May 24 14:59:12 2022: env72: <_=C:/Users/EROS/build-wrapper-win-x86/build-wrapper-win-x86-64.exe>
+Tue May 24 14:59:12 2022: env73: <_NO_DEBUG_HEAP=1>
+Tue May 24 14:59:12 2022: env74: <__COMPAT_LAYER=DetectorsAppHealth>
+Tue May 24 14:59:12 2022: process created with pid: 13824
+Tue May 24 14:59:12 2022: image path name: <C:\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\11.3.0\cc1plus.exe>
+Tue May 24 14:59:12 2022: command line: <C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/cc1plus.exe -quiet -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/ -D_REENTRANT main.cpp -quiet -dumpbase main.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -std=c++17 -o C:\Users\EROS\AppData\Local\Temp\ccwRQ1md.s>
+Tue May 24 14:59:12 2022: working directory: <C:\Users\EROS\OneDrive\Escritorio\2022-1\Ingenieria de software\EP\EP_IS\>
+Tue May 24 14:59:12 2022: isWow64: 0
+Tue May 24 14:59:12 2022: skipping process C:\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\11.3.0\cc1plus.exe with pid: 13824
+Tue May 24 14:59:13 2022: process with pid 13824 exit with code: 0 (0x0)
+Tue May 24 14:59:14 2022: process created with pid: 1752
+Tue May 24 14:59:14 2022: image path name: <C:\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\11.3.0\..\..\..\..\x86_64-w64-mingw32\bin\as.exe>
+Tue May 24 14:59:14 2022: command line: <C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../x86_64-w64-mingw32/bin/as.exe -o C:\Users\EROS\AppData\Local\Temp\ccRF165S.o C:\Users\EROS\AppData\Local\Temp\ccwRQ1md.s>
+Tue May 24 14:59:14 2022: working directory: <C:\Users\EROS\OneDrive\Escritorio\2022-1\Ingenieria de software\EP\EP_IS\>
+Tue May 24 14:59:14 2022: isWow64: 0
+Tue May 24 14:59:14 2022: skipping process C:\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\11.3.0\..\..\..\..\x86_64-w64-mingw32\bin\as.exe with pid: 1752
+Tue May 24 14:59:14 2022: process with pid 1752 exit with code: 0 (0x0)
+Tue May 24 14:59:14 2022: process created with pid: 6780
+Tue May 24 14:59:14 2022: image path name: <C:\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\11.3.0\collect2.exe>
+Tue May 24 14:59:14 2022: command line: <C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\EROS\AppData\Local\Temp\ccBwHI6j.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o main.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../.. C:\Users\EROS\AppData\Local\Temp\ccRF165S.o -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/crtend.o>
+Tue May 24 14:59:14 2022: working directory: <C:\Users\EROS\OneDrive\Escritorio\2022-1\Ingenieria de software\EP\EP_IS\>
+Tue May 24 14:59:14 2022: isWow64: 0
+Tue May 24 14:59:14 2022: skipping process C:\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\11.3.0\collect2.exe with pid: 6780
+Tue May 24 14:59:14 2022: process created with pid: 2972
+Tue May 24 14:59:14 2022: image path name: <C:\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\11.3.0\..\..\..\..\x86_64-w64-mingw32\bin\ld.exe>
+Tue May 24 14:59:14 2022: command line: <C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\EROS\AppData\Local\Temp\ccBwHI6j.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o main.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../.. C:\Users\EROS\AppData\Local\Temp\ccRF165S.o -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.3.0/crtend.o>
+Tue May 24 14:59:14 2022: working directory: <C:\Users\EROS\OneDrive\Escritorio\2022-1\Ingenieria de software\EP\EP_IS\>
+Tue May 24 14:59:14 2022: isWow64: 0
+Tue May 24 14:59:14 2022: skipping process C:\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\11.3.0\..\..\..\..\x86_64-w64-mingw32\bin\ld.exe with pid: 2972
+Tue May 24 14:59:14 2022: process with pid 2972 exit with code: 0 (0x0)
+Tue May 24 14:59:14 2022: process with pid 6780 exit with code: 0 (0x0)
+Tue May 24 14:59:14 2022: process with pid 9200 exit with code: 0 (0x0)
+Tue May 24 14:59:14 2022: finalizing json file
